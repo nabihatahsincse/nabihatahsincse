@@ -2,10 +2,10 @@
 
 🎓 I'm a Computer Science and Engineering (CSE) student 
 
-💻 I'm learning C programming, data structures, and preparing for a career as a data analyst  
+💻 I'm learning C programming, data structures   
 📊 Exploring Excel, SQL, and Python for data analysis  
 💡 I love solving problems, building fun mini projects, and improving every day  
- 🌱 Currently working on:  
+  🌱 Currently working on:  
 - Strengthening my coding basics  
 - Learning Excel shortcuts and formulas  
 - Exploring data analytics tools  
