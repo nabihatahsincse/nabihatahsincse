@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, I'm Nabiha Tahsin
 
-<!--
-**nabihatahsincse/nabihatahsincse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science and Engineering (CSE) student 
+💻 I'm learning C programming, data structures, and preparing for a career as a data analyst  
+📊 Exploring Excel, SQL, and Python for data analysis  
+💡 I love solving problems, building fun mini projects, and improving every day  
+🌱 Currently working on:  
+- Strengthening my coding basics  
+- Learning Excel shortcuts and formulas  
+- Exploring data analytics tools  
+ 🎯Goals:  
+- Become confident in programming  
+- Build real-world data analysis projects  
+- Keep learning new things consistently  
+✨ Fun Fact: I love baking  🍰
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
